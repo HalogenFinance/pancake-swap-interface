@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from 'toastfisdk'
+import { Currency, Pair } from '@pancakeswap-libs/sdk'
 import { Button, ChevronDownIcon, Text } from 'toastswapuikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

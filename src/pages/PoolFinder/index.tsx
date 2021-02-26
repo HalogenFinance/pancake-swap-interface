@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from 'toastfisdk'
+import { Currency, ETHER, JSBI, TokenAmount } from '@pancakeswap-libs/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from 'toastswapuikit'
 import CardNav from 'components/CardNav'
