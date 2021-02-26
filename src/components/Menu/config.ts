@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '/farms',
+    href: 'http://www.toastfinance.com/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '/syrup',
+    href: 'http://www.toastfinance.com/pools',
   },
 ]
 
