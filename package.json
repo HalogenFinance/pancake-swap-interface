@@ -90,6 +90,10 @@
     "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'"
   },
+    "engines": {
+      "node": "12.18.4",
+      "yarn": "1.22.10"
+    },
   "browserslist": {
     "production": [
       ">0.2%",
