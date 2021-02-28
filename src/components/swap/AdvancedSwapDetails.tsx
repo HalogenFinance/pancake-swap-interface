@@ -75,7 +75,7 @@ export function AdvancedSwapDetails({ trade }: AdvancedSwapDetailsProps) {
               <SectionBreak />
               <AutoColumn style={{ padding: '0 24px' }}>
                 <RowFixed>
-                  <Text fontSize="14px">Route</Text>
+                  <Text fontSize="14px" color="#fff">Route</Text>
                   <QuestionHelper text="Routing through these tokens resulted in the best price for your trade." />
                 </RowFixed>
                 <SwapRoute trade={trade} />
