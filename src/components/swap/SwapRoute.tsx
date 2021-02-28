@@ -17,6 +17,7 @@ export default memo(function SwapRoute({ trade }: { trade: Trade }) {
       justifyContent="space-evenly"
       alignItems="center"
     >
+      
       {trade.route.path.map((token, i, path) => {
         const isLastItem: boolean = i === path.length - 1
         return (
