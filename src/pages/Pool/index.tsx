@@ -67,7 +67,7 @@ export default function Pool() {
           <CardBody>
             <AutoColumn gap="12px" style={{ width: '100%' }}>
               <RowBetween padding="0 8px">
-                <Text color={theme.colors.text}>
+                <Text color="white">
                   <TranslatedText translationId={102}>Your Liquidity</TranslatedText>
                 </Text>
                 <Question
@@ -77,7 +77,6 @@ export default function Pool() {
                   )}
                 />
               </RowBetween>
-
               {!account ? (
                 <LightCard padding="40px">
                   <Text color="textDisabled" textAlign="center">
@@ -105,14 +104,14 @@ export default function Pool() {
               )}
 
               <div>
-                <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0' }}>
+                <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0',  color: '#bbb' }}>
                   {TranslateString(106, "Don't see a pool you joined?")}{' '}
                   <StyledInternalLink id="import-pool-link" to="/find">
                     {TranslateString(108, 'Import it.')}
                   </StyledInternalLink>
                 </Text>
-                <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0' }}>
-                  Or, if you staked your FLIP tokens in a farm, unstake them to see them here.
+                <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0', color: '#bbb' }}>
+                  Or, if you staked your tokens in a farm, unstake them to see them here.
                 </Text>
               </div>
             </AutoColumn>

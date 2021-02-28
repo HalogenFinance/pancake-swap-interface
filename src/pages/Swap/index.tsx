@@ -355,7 +355,7 @@ const Swap = () => {
                   <AutoColumn gap="4px">
                     {Boolean(trade) && (
                       <RowBetween align="center">
-                        <Text fontSize="14px">Price</Text>
+                        <Text fontSize="14px" color="#fff">Price</Text>
                         <TradePrice
                           price={trade?.executionPrice}
                           showInverted={showInverted}
@@ -365,8 +365,8 @@ const Swap = () => {
                     )}
                     {allowedSlippage !== INITIAL_ALLOWED_SLIPPAGE && (
                       <RowBetween align="center">
-                        <Text fontSize="14px">Slippage Tolerance</Text>
-                        <Text fontSize="14px">{allowedSlippage / 100}%</Text>
+                        <Text fontSize="14px" color="#fff">Slippage Tolerance</Text>
+                        <Text fontSize="14px" color="#fff">{allowedSlippage / 100}%</Text>
                       </RowBetween>
                     )}
                   </AutoColumn>
