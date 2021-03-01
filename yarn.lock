@@ -17070,10 +17070,10 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-toastfisdk@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/toastfisdk/-/toastfisdk-1.0.3.tgz#bfad15c4f15b390684952a4713c7e75afe033c6b"
-  integrity sha512-ZcoI4w844Z+NLRatcwoNepGBc1N4/B1EU7T5Vl16HUO0+tRnAcXRT64iQNMU1SAI/7sEg9yszD3P+ZI0aXv3SA==
+toastfisdk@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/toastfisdk/-/toastfisdk-1.0.4.tgz#d20c585cd0804a923a9555e9d3914e05e0a90f19"
+  integrity sha512-XKRR7stefJdWeWRC2CBC80ElVmmUB2mQR1UzhPPs/DFIjcLqmzCCwCHZvnyP9JF0pWa6OnfpmrOY1vVZLKjQsg==
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"

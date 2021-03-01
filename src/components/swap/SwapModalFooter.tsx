@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { Trade, TradeType } from 'toastfisdk'
 import React, { useMemo, useState } from 'react'
 import { Text , Button } from 'toastswapuikit'
 import { Repeat } from 'react-feather'

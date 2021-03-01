@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@pancakeswap-libs/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'toastfisdk'
 import React from 'react'
 import { Button, Text } from 'toastswapuikit'
 import { RowBetween, RowFixed } from '../../components/Row'

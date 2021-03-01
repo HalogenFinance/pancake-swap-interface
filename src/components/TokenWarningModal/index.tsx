@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap-libs/sdk'
+import { Token } from 'toastfisdk'
 import { transparentize } from 'polished'
 import { Button, Text } from 'toastswapuikit'
 import React, { useCallback, useMemo, useState } from 'react'
