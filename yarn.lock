@@ -17084,10 +17084,10 @@ toastfisdk@^1.0.5:
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-toastswapuikit@^0.11.23:
-  version "0.11.23"
-  resolved "https://registry.yarnpkg.com/toastswapuikit/-/toastswapuikit-0.11.23.tgz#e4510dec82b94d6745f6e726ea820047f5fe8775"
-  integrity sha512-Qgz4AVnWg4pNQPt2sEYPMIg8Ho/dFQHYv2PX0YfuzmYOVEVRXwXxHUaOyNXlYr4Ggc6ds7n6E+sVMMQEmqq9lg==
+toastswapuikit@^0.11.24:
+  version "0.11.24"
+  resolved "https://registry.yarnpkg.com/toastswapuikit/-/toastswapuikit-0.11.24.tgz#d106d34741f72c548758475fbed00648738cb553"
+  integrity sha512-Udaq+2UNSmWLuo12eitcKSUfW+RplpCWDp6wuIEWoxs6grto3FadYEl2wqeIhCXr4acmbbXY3MBdi4353cM4yw==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
