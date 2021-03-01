@@ -17070,10 +17070,10 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-toastfisdk@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/toastfisdk/-/toastfisdk-1.0.4.tgz#d20c585cd0804a923a9555e9d3914e05e0a90f19"
-  integrity sha512-XKRR7stefJdWeWRC2CBC80ElVmmUB2mQR1UzhPPs/DFIjcLqmzCCwCHZvnyP9JF0pWa6OnfpmrOY1vVZLKjQsg==
+toastfisdk@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/toastfisdk/-/toastfisdk-1.0.5.tgz#629ac649d61c330fec30d2858c0153c4062048a5"
+  integrity sha512-SVSZr5x2H8Qt/x9dd3fa0t9LwGqu6eD4j0y2gBCadrjXi8V19kv9M1U5ofRx2uRtw+H8ZgzzMzO8+o3QmoumLg==
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"
@@ -17084,10 +17084,10 @@ toastfisdk@^1.0.4:
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-toastswapuikit@^0.11.22:
-  version "0.11.22"
-  resolved "https://registry.yarnpkg.com/toastswapuikit/-/toastswapuikit-0.11.22.tgz#910af020dfa5126ea0eff650e3e96acd67d477f1"
-  integrity sha512-4xmBGGmwIRPDqZWyHtM+m17wOJn15LRh61RF17jStlZ/XKMwjeuu1jQQkHkaNoY8XA1xtVbbFP+Fs3ygfHIK9A==
+toastswapuikit@^0.11.23:
+  version "0.11.23"
+  resolved "https://registry.yarnpkg.com/toastswapuikit/-/toastswapuikit-0.11.23.tgz#e4510dec82b94d6745f6e726ea820047f5fe8775"
+  integrity sha512-Qgz4AVnWg4pNQPt2sEYPMIg8Ho/dFQHYv2PX0YfuzmYOVEVRXwXxHUaOyNXlYr4Ggc6ds7n6E+sVMMQEmqq9lg==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

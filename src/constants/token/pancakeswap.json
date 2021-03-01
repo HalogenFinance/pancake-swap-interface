@@ -34,6 +34,14 @@
       "logoURI": "/images/coins/ETH.png"
     },
     {
+      "name": "Toast",
+      "symbol": "TOAST",
+      "address": "0x8f5ab78E354a859e4eE8524A3FE5be402378E128",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/TOAST.png"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
